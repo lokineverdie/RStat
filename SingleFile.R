@@ -24,6 +24,7 @@ myStat <- function (file, exp, groups, N){  #myStat('test2.csv', 3,5,2)
           a<-a+1
      }
      
+     
      # lets split data and calculate mean and standart deviation
      
      for(i in 1:exp) {
